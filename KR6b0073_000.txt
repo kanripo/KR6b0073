@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大魚事經
+#+DATE: 2015-08-30 19:36:34.037302
+#+PROPERTY: JUAN 0
