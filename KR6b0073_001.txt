@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:34.862449
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:06
 #+TITLE: 大魚事經
 #+PROPERTY: CBETA_ID T04n0216
 #+PROPERTY: ID KR6b0073
